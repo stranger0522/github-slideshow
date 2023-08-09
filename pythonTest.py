@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-print("Hello World!")
+print("Hello World! v2 2023/08/09")
 
 import os
 from azure.mgmt.compute import ComputeManagementClient
